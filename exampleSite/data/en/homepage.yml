@@ -18,7 +18,9 @@ slider:
 banner_feature:
   enable: true
   image: images/banner/banner-feature.png
-  feature_item: []
+  feature_item:
+  - name: Tech Projecsts
+    content: test
 about:
   enable: true
   title: About Educenter
