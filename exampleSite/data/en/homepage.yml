@@ -5,7 +5,7 @@ slider:
   slider_item:
   - title: Daily Wrap
     content: Daily Wrap
-    animation_in: ''
+    animation_in: slide
     animation_out: ''
     button: ''
   - title: Tech Snippets Podcast
