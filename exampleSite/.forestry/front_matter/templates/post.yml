@@ -32,3 +32,5 @@ fields:
   name: type
   label: type
   default: post
+pages:
+- exampleSite/content/english/blog/tech-snippets-podcast-ep-1.md
