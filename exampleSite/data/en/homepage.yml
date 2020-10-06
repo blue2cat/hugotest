@@ -3,6 +3,11 @@ slider:
   enable: true
   bg_image: images/banner/banner-1.jpg
   slider_item:
+  - title: Daily Wrap
+    content: Daily Wrap
+    animation_in: ''
+    animation_out: ''
+    button: ''
   - title: Tech Snippets Podcast
     content: 'Get the Tech Snippets Podcast anywhere you subscribe to podcasts. '
     animation_in: ''
